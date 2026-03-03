@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.production
+.env.local
+
+# Runtime data
+*.log
+trades.json
+portfolio_history.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
