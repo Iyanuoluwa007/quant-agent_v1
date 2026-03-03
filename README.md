@@ -266,9 +266,6 @@ MIT License — Use at your own risk.
 
 ---
 
-## Author
-
-Built by [Iyanuoluwa] as part of autonomous systems research combining large language models with deterministic control architectures.
 ## Attribution
 
 ```text
